@@ -1,7 +1,7 @@
 # KVKK-17-TEKNIK-TEDBIR
 
 KVKK 17 TEKNİK TEDBİR
-<h6>1)Yetkilendirme Matrisinin Oluşturulmuş Olması</h6> 
+<h4>1)Yetkilendirme Matrisinin Oluşturulmuş Olması</h4> 
 Yetki matrisi bir nevi görev ve sorumlulukların dağıldığı tablodur. Bunu RACI Matrix adı
 verilen uygulamayla kolayca yapabiliyoruz
 
