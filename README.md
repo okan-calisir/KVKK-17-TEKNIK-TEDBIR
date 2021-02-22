@@ -26,16 +26,25 @@ Güvenlik Duvarı Çözümler(FireWall) İç ağa gelen ve iç ağdan çıkan t�
 yetkisiz erişim, zaralı aktivite veya DDOS gibi saldırıları ayıklayarak ağa temiz bir trafik
 yollar.
 Diğer önlemler ise;
- Siber saldırı engelleme
- Web filtreleme
- Network Filtreleme
- Antivirüs
- Antispam
- Uygulama kontrolü
- Kullanıcı kontrolü
- Trafik Yönlendirme
- Log kayıtları
- VPN
+- Siber saldırı engelleme
+
+- Web filtreleme
+
+- Network Filtreleme
+- 
+- Antivirüs
+
+- Antispam
+
+- Uygulama kontrolü
+
+- Kullanıcı kontrolü
+
+- Trafik Yönlendirme
+
+- Log kayıtları
+
+- VPN
 
 6)Uygulama Güvenliğini Sağlanması
 Güvenli yazılım geliştirme uygulama güvenliği açısından çok önemlidir. Yazılım hatalarından
