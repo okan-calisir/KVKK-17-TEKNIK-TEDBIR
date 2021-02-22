@@ -83,7 +83,7 @@ sistemidir bu sistem saldırgana gerçek veri yerine gerçek olamayan verileri g
 <h4>12)Veri Kaybı Önleme Yazılımlarının Yapılması</h4>
 Veri Kaybı önleme sistemi(DLP) hassas verilerin işlendiği ve aktarıldığı her türlü kanaldan
 kasıtlı veya kasıt dışı sızmasını önleyen yazılımdır
-<h4>13)Yedekleme sisteminin Kullanılması
+<h4>13)Yedekleme sisteminin Kullanılması</h4>
 Yedekleme sisteminin kullanılması oldukça önemlidir herhangi bir veri kaybında veya bir
 saldırıda verilerin çalınması durumda yedeklenen veriler kullanılabilir.
 
@@ -100,6 +100,7 @@ Güvenlik duvarları(Firewall) iç ve dış trafiği denetlememizi sağlayan cih
 sayesinde bilgisayarımızdaki yazılımlar bizim iznimiz dışında bilgi vermez.
 
 <h4>17)Anahtarlama Yöntemi</h4>
+
 Depola ve İlet: Dağıtıcı her bir paketi iletmeden önce ara belleğe alır ve bir kontrol toplamı
 oluşturur. Oluşturulan kontrol paketi toplamı pakette kayıtlı olanla uyuşmazsa paketi iletmez
 Kestirme: Dağıtıcı veri paketinde sadece MAC bilgisi okur ve iletime başlar Hata kontrolü
